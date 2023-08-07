@@ -29,7 +29,7 @@ Students can use these prompts to:
 ## How to Use
 
 1. **Find a Prompt:** Browse through our collection (currently a work in progress).
-2. **Copy & Paste:** Follow the link to Bing Chat or Highlight, copy, and paste the prompt into your GPT-powered tool.
+2. **Copy & Paste:** Follow the direct link to Bing Chat or highlight, copy, and paste the prompt into your GPT-powered tool.
 3. **Apply the Answer:** Use the response in your teaching, administrative tasks, or educational activities.
 
 ## Categories 
@@ -38,7 +38,7 @@ We're in the process of organizing the prompts into user-friendly categories. St
 
 ## Contribute
 
-We welcome your contributions! If you have an idea for a prompt, click on the 'Contribute' section. We've made it easy to share your insights with us.
+We welcome your contributions! If you have an idea for a prompt, please submit them for consideration. 
 
 ## License
 
