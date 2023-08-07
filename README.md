@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-Welcome to the Prompts for Education repository! Our mission is to transform the way educators and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing. By using these prompts, staff can save time and work more efficiently, and students can explore new and exciting learning opportunities.
+Welcome to the Prompts for Education repository! Our mission is to transform the way educators and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat. By using these prompts, staff can save time and work more efficiently, and students can explore new and exciting learning opportunities.
 
 Whether you're a third-grade teacher, a college professor, or a school administrator, this collection is designed with you in mind. No technical expertise required!
 
@@ -34,7 +34,10 @@ Students can use these prompts to:
 
 ## Categories 
 
-We're in the process of organizing the prompts into user-friendly categories. Stay tuned for updates, and please feel free to suggest any categories that would be helpful to you!
+- [Educators](Prompts/Educators/README.MD)
+- [Students](Prompts/Students/README.MD)
+- [Staff](Prompts/Staff/README.MD)
+- [Administrators](Prompts/Administration/README.MD)
 
 ## Contribute
 
