@@ -6,6 +6,10 @@ Welcome to the Prompts for Education repository! Our mission is to transform the
 
 Whether you're a third-grade teacher, a college professor, or a school administrator, this collection is designed with you in mind. No technical expertise required!
 
+### Disclaimer
+
+While the prompts in this repository are designed with care and intended for educational use, users should be aware of potential risks in their application. OpenAI's technology may interpret prompts in ways that were not originally intended, leading to unexpected or inappropriate responses. We strongly encourage users to customize the prompts to fit their unique contexts, students, and needs, and to review the responses from OpenAI's technology for suitability and accuracy. Always exercise caution and professional judgment when incorporating these prompts into your educational environment.
+
 ### What's a Prompt?
 
 Think of a prompt as a special question or statement that you can give to an artificial intelligence model like GPT. It's designed to provide you with information, insights, or even creative ideas tailored to your needs. It's like having a knowledgeable assistant at your fingertips!
