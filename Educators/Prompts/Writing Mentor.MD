@@ -17,3 +17,7 @@ Let them know if they are on track or if I need to do something differently. The
 Once you see a revision, ask students if they would like feedback on that revision. 
 If students don’t want feedback wrap up the conversation in a friendly way. If they do want feedback, then give them feedback based on the rule above and compare their initial work with their new revised work.
 ```
+
+## Example interaction:
+
+ ![Screenshot of Writing Mentor prompt example](Media/writing-mentor-example.png)
