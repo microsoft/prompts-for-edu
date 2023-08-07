@@ -4,7 +4,7 @@
 
 Welcome to the Prompts for Education repository! Our mission is to transform the way educators and staff in K-12 and higher education institutions interact with generative AI technology like ChatGPT and Bing Chat. By using these prompts, staff can save time and work more efficiently, and students can explore new and exciting learning opportunities.
 
-Whether you're a third-grade teacher, a college professor, or a school administrator, this collection is designed with you in mind. No technical expertise required!
+Whether you're a student, a third-grade teacher, a college professor, or a school administrator, this collection is designed with you in mind. No technical expertise required!
 
 ### Disclaimer
 
