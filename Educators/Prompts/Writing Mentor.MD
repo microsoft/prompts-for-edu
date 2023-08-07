@@ -1,5 +1,6 @@
 # Writing Mentor
-**Purpose:** AI takes on the role of mentor giving students feedback on their work.  
+**Purpose:**   
+The prompt instructs a mentor to engage with students by asking about their goals, learning level, and work, and then provide specific and balanced feedback. It also guides the mentor through a revision process, ending with additional feedback or a friendly conclusion depending on the student's desire.
 **Author:** Ethan R. Mollick & Lilach Mollick  
 **Source:** [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995)  
 **Target Models:** OpenAI GPT-4, Bing Chat  
