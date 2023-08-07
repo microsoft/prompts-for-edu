@@ -38,10 +38,10 @@ Students can use these prompts to:
 
 ## Categories 
 
-- [Educators](Prompts/Educators/README.MD)
-- [Students](Prompts/Students/README.MD)
-- [Staff](Prompts/Staff/README.MD)
-- [Administrators](Prompts/Administration/README.MD)
+- [Educators](Educators/README.MD)
+- [Students](Students/README.MD)
+- [Staff](Staff/README.MD)
+- [Administrators](Administration/README.MD)
 
 ## Contribute
 
