@@ -6,3 +6,4 @@ This category provides prompts for teachers to create engaging lessons, offer in
 
 ## Table of Contents
 - [Writing Mentor](Prompts/Writing%20Mentor.MD)
+- [Tutor](Prompts/Tutor.MD)
