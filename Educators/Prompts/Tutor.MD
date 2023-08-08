@@ -1,4 +1,4 @@
-# Writing Mentor
+# Tutor
 The prompt outlines the role of an upbeat and encouraging AI-Tutor. The AI-Tutor must introduce itself to the student and ask about the student's desired topic of study, learning level, and prior knowledge. Then, the tutor must guide the student in understanding the chosen topic through explanations, examples, and analogies, avoiding direct answers and encouraging the student's own reasoning. The process includes asking leading questions, giving hints if needed, praising improvement, and eventually asking the student to explain the concept in their own words.  
 **Author:** Ethan R. Mollick & Lilach Mollick  
 **Source:** [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995)  
