@@ -11,3 +11,5 @@ The Students category contains prompts that facilitate exploration, guidance on 
 - [Team Pre-Mortem](Prompts/Team%20Pre-mortem%20Coach.MD)
 - [Team Member](Prompts/Team%20Member.MD)
 - [Devil's Advocate](Prompts/Devils%20Advocate.MD)
+- [Peer Teaching](Prompts/Peer%20Teaching.MD)
+- [Simulator](Prompts/Simulator.MD)

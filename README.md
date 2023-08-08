@@ -14,7 +14,7 @@ While the prompts in this repository are designed with care and intended for edu
 
 Think of a prompt as a special question or statement that you can give to an artificial intelligence model like GPT. It's designed to provide you with information, insights, or even creative ideas tailored to your needs. It's like having a knowledgeable assistant at your fingertips!
 
-## Improved Productivity for Staff
+## Improved Productivity for Faculty & Staff
 
 Administrators, teachers, and other staff members can utilize these prompts to:
 
