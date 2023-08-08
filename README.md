@@ -6,11 +6,27 @@ Welcome to the Prompts for Education repository! Our mission is to transform the
 
 Whether you're a student, a third-grade teacher, a college professor, or a school administrator, this collection is designed with you in mind. No technical expertise required!
 
-### Disclaimer
+## Responsible AI with the Azure OpenAI and Bing Chat
+At Microsoft, we're committed to the advancement of AI driven by principles that put people first. Generative models such as the ones available in Azure OpenAI Service and Bing Chat have significant potential benefits, but without careful design and thoughtful mitigations, such models have the potential to generate incorrect or even harmful content. Microsoft has made significant investments to help guard against abuse and unintended harm, which includes requiring applicants to show well-defined use cases, incorporating Microsoft’s [principles for responsible AI use](https://www.microsoft.com/ai/responsible-ai?activetab=pivot1:primaryr6), building content filters to support customers, and providing responsible AI implementation guidance to onboarded customers.
+
+More details on the RAI guidelines for the Azure OpenAI Service can be found [here](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=/azure/cognitive-services/openai/context/context).
+
+## Responsible AI Principles
+
+- **Fairness:** AI Systems should treat all people fairly.
+- **Reliability and Safety:** AI systems should perform reliably and safely.
+- **Privacy and security:** AI systems should be secure and respect privacy.
+- **Inclusiveness:** AI systems should empower everyone and engage people.
+- **Transparency:** AI systems should be understandable.
+- **Accountability:** People should be accountable for AI systems.
+
+More details on the Responsbile AI Principles [here](https://www.microsoft.com/en-us/ai/responsible-ai).
+
+## Disclaimer
 
 While the prompts in this repository are designed with care and intended for educational use, users should be aware of potential risks in their application. Large Language Models (LLMs) may interpret prompts in ways that were not originally intended, leading to unexpected or inappropriate responses. We strongly encourage users to customize the prompts to fit their unique contexts, students, and needs, and to review the responses from LLMs for suitability and accuracy. Always exercise caution and professional judgment when incorporating these prompts into your educational environment.
 
-### What's a Prompt?
+## What's a Prompt?
 
 Think of a prompt as a special question or statement that you can give to an artificial intelligence model like GPT. It's designed to provide you with information, insights, or even creative ideas tailored to your needs. It's like having a knowledgeable assistant at your fingertips!
 
