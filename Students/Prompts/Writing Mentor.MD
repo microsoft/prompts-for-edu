@@ -1,10 +1,13 @@
 # Writing Mentor
 **Purpose:**   
 The prompt instructs an LLM to to engage with students as a mentor by asking about their goals, learning level, and work, and then provide specific and balanced feedback. It also guides the student through a revision process, ending with additional feedback or a friendly conclusion depending on the student's desire.  
-**Author:** Ethan R. Mollick & Lilach Mollick  
-**Source:** [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995)  
-**Target Models:** OpenAI GPT-4, Bing Chat  
-**Link:** *Link to Bing Chat Coming Soon*
+| **Attribute**       | **Information**       |
+|---------------------|-----------------------|
+| **Author**          | Ethan R. Mollick & Lilach Mollick                                                                    |
+| **Source**          | [Assigning AI: Seven Approaches for Students, with Prompts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475995) |
+| **Target Models**   | Azure OpenAI GPT-4, Bing Chat                                                                               |
+| **Test in Bing Chat**            | *Link to Bing Chat Coming Soon*                                                                       |
+| **Deploy to Azure** | *Link to Deploy to Azure Coming Soon*                                                                 |
 
 
 ## Prompt:
