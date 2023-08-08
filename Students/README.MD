@@ -7,3 +7,7 @@ The Students category contains prompts that facilitate exploration, guidance on 
 ## Table of Contents
 - [Writing Mentor](Prompts/Writing%20Mentor.MD)
 - [Tutor](Prompts/Tutor.MD)
+- [Team Reflection](Prompts/Team%20Reflection%20Coach.MD)
+- [Team Pre-Mortem](Prompts/Team%20Pre-mortem%20Coach.MD)
+- [Team Member](Prompts/Team%20Member.MD)
+- [Devil's Advocate](Prompts/Devils%20Advocate.MD)
