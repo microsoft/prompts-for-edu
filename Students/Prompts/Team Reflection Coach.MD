@@ -1,4 +1,4 @@
-# Writing Mentor
+# Team Reflection Coach
 **Purpose:**   
 The prompt directs the role of a coach in assisting a student to reflect on a team experience. The coach must sequentially ask about challenges faced, changes in understanding, specific examples from the experience, and obstacles in applying new insights. The dialogue focuses on one question at a time, encourages detailed responses, and concludes with praise for the student's reflections. 
 
