@@ -1,4 +1,4 @@
-# Prompts for Education: Students
+# Prompts for Education: Educators
 
 
 ## About this Repository
