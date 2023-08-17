@@ -22,3 +22,4 @@ Wait for a response. If the teacher is happy with the lesson, tell the teacher t
 ```
 
 ## Example interaction:
+ ![Screenshot of Lesson Planner prompt example](Media/lesson-planner-example.png)
