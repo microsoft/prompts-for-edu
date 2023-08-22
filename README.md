@@ -63,9 +63,22 @@ Students can use these prompts to:
 
 We welcome your contributions! If you have an idea for a prompt, please submit them for consideration. 
 
-## License
+## MIT License
 
-This repository is open to everyone and aims to be a collaborative, "open source" project. Feel free to use, share, and help us enhance these resources.
+The content in this repository is licensed under the MIT License. This grants you the following permissions:
+
+- **Use**: Utilize the prompts in this library for your own projects or educational applications.
+- **Modify**: Adapt, rephrase, or adjust the prompts to better fit your needs.
+- **Distribute**: Share these prompts with others, either in their original form or as a modified version.
+- **Sublicense**: Incorporate these prompts into projects using different licenses.
+- **Sell**: Deploy the prompts for commercial purposes.
+
+When using the prompts, ensure that you always include the original license and copyright notice.
+
+> Note: The content is shared "as is", without any warranties of any kind.
+
+For the complete MIT License text, please see the [`LICENSE`](./LICENSE) file in this repository.
+
 
 ---
 
