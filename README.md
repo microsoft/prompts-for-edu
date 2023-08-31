@@ -52,7 +52,7 @@ Students can use these prompts to:
 2. **Copy & Paste:** Follow the direct link to Bing Chat or highlight, copy, and paste the prompt into your GPT-powered tool.
 3. **Apply the Answer:** Use the response in your teaching, administrative tasks, or educational activities.
 
-## Categories 
+## Roles 
 
 - [Educators](Educators/README.MD)
 - [Students](Students/README.MD)
