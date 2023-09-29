@@ -21,7 +21,7 @@ More details on the RAI guidelines for the Azure OpenAI Service can be found [he
 - **Transparency:** AI systems should be understandable.
 - **Accountability:** People should be accountable for AI systems.
 
-More details on the Responsbile AI Principles [here](https://www.microsoft.com/en-us/ai/responsible-ai).
+More details on the Responsible AI Principles [here](https://www.microsoft.com/en-us/ai/responsible-ai).
 
 ## Disclaimer
 
