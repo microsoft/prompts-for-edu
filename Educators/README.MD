@@ -9,3 +9,6 @@ This category provides prompts for teachers to create engaging lessons, offer in
 - [Interactive Lecture](Prompts/Interactive%20Lecture.MD)
 - [Explainer](Prompts/Explainer.MD)
 - [Diagnostic Quiz Generator](Prompts/Diagnostic%20Quiz%20Generator.MD)
+- [Individualized Student Assistance](Prompts/Individualized%20Student%20Assistance.MD)
+- [Assignment Ideation for Active Learners](Prompts/Assignment%20Ideation%20for%20Active%20Learner.MD)
+
