@@ -1,4 +1,4 @@
-# Peer Teaching
+# Meeting Summary and Agenda Planer
 **Purpose:**   
 The prompt describes a role where the AI acts as an assistant ready to summarize the minutes or transcription from a department meeting, and suggest next steps, agendas for committees, future discussion topics. After providing an agenda, the AI asks the administrator if the recap is appropriate length and tone, and whether any topics are missing or should be removed. 
 
