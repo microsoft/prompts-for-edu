@@ -8,6 +8,7 @@ This prompt asks the language model to help a teacher create a diagnostic quiz w
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
+| **Start in Filebox.ai** | [Diagnostic Quiz Generator](https://filebox.ai/filebox-ai/prompts-for-edu/educators/diagnostic-quiz-generator) |
 
 
 ## Prompt:

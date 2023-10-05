@@ -8,6 +8,7 @@ This prompt asks the language model to help a teacher create simple and clear ex
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
+| **Start in Filebox.ai** | [Explainer](https://filebox.ai/filebox-ai/prompts-for-edu/educators/explainer) |
 
 
 ## Prompt:

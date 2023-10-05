@@ -9,6 +9,7 @@ The prompt outlines the role of an AI team member assisting students in recogniz
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
+| **Start in Filebox.ai** | [Team Member](https://filebox.ai/filebox-ai/prompts-for-edu/students/team-member) |
 
 
 ## Prompt:

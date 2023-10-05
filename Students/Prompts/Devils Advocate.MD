@@ -9,6 +9,7 @@ The prompt instructs an AI teammate to play devil's advocate, helping students r
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
+| **Start in Filebox.ai** | [Devil's Advocate](https://filebox.ai/filebox-ai/prompts-for-edu/students/devils-advocate) |
 
 
 ## Prompt:

@@ -8,7 +8,7 @@ This prompt is instructing a language model to act as an instructional coach ass
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
-
+| **Start in Filebox.ai** | [Interactive Lecture](https://filebox.ai/filebox-ai/prompts-for-edu/educators/interactive-lecture) |
 
 ## Prompt:
 ```
