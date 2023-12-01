@@ -9,6 +9,7 @@ The prompt instructs the AI to engage in a role-play exercise with the user, whe
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
+| **Start in Filebox.ai** | [Simulator](https://filebox.ai/filebox-ai/prompts-for-edu/students/simulator) |
 
 
 ## Prompt:

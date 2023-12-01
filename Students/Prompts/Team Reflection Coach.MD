@@ -9,6 +9,7 @@ The prompt directs the role of a coach in assisting a student to reflect on a te
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
+| **Start in Filebox.ai** | [Team Reflection Coach](https://filebox.ai/filebox-ai/prompts-for-edu/students/team-reflection-coach) |
 
 
 ## Prompt:

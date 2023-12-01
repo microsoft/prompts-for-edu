@@ -9,6 +9,7 @@ The prompt describes a role where the AI acts as a student ready to explain a to
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
+| **Start in Filebox.ai** | [Peer Teaching](https://filebox.ai/filebox-ai/prompts-for-edu/students/peer-teaching) |
 
 
 ## Prompt:
