@@ -7,10 +7,10 @@ Welcome to the Prompts for Education repository! Our mission is to transform the
 Whether you're a student, a third-grade teacher, a college professor, or a school administrator, this collection is designed with you in mind. No technical expertise required!
 
 ## Responsible AI with the Azure OpenAI and Bing Chat
-At Microsoft, we're committed to the advancement of AI driven by principles that put people first. Generative models such as the ones available in Azure OpenAI Service and Bing Chat have significant potential benefits, but without careful design and thoughtful mitigations, such models have the potential to generate incorrect or even harmful content. Microsoft has made significant investments to help guard against abuse and unintended harm, which includes a registration process for access to the Azure OpenAI Service, incorporating Microsoft’s [principles for responsible AI use](https://www.microsoft.com/ai/responsible-ai?activetab=pivot1:primaryr6), building content filters to support customers, and providing responsible AI implementation guidance to onboarded customers.
 
+At Microsoft, we're committed to the advancement of AI driven by principles that put people first. Generative models such as the ones available in Azure OpenAI Service and Bing Chat have significant potential benefits, but without careful design and thoughtful mitigation, such models have the potential to generate incorrect or even harmful content. Microsoft has made significant investments to help guard against abuse and unintended harm, which includes a registration process for access to the Azure OpenAI Service, incorporating Microsoft’s [principles for responsible AI use](https://www.microsoft.com/ai/responsible-ai?activetab=pivot1:primaryr6), building content filters to support customers, and providing responsible AI implementation guidance to onboarded customers.
 
-More details on the RAI guidelines for the Azure OpenAI Service can be found [here](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=/azure/cognitive-services/openai/context/context).
+More details on the RAI guidelines for the Azure OpenAI Service can be found [here](https://learn.microsoft.com/legal/cognitive-services/openai/transparency-note?context=/azure/cognitive-services/openai/context/context).
 
 ## Responsible AI Principles
 
@@ -53,7 +53,7 @@ Students can use these prompts to:
 2. **Copy & Paste:** Follow the direct link to Bing Chat or highlight, copy, and paste the prompt into your GPT-powered tool.
 3. **Apply the Answer:** Use the response in your teaching, administrative tasks, or educational activities.
 
-## Roles 
+## Roles
 
 - [Educators](Educators/README.MD)
 - [Students](Students/README.MD)
@@ -62,7 +62,7 @@ Students can use these prompts to:
 
 ## Contribute
 
-We welcome your contributions! If you have an idea for a prompt, please submit them for consideration. 
+We welcome your contributions! If you have an idea for a prompt, please submit them for consideration.
 
 ## MIT License
 
@@ -79,7 +79,6 @@ When using the prompts, ensure that you always include the original license and 
 > Note: The content is shared "as is", without any warranties of any kind.
 
 For the complete MIT License text, please see the [`LICENSE`](./LICENSE) file in this repository.
-
 
 ---
 
