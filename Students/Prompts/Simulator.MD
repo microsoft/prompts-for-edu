@@ -1,5 +1,7 @@
 # Simulator
-**Purpose:**   
+
+**Purpose:**
+
 The prompt instructs the AI to engage in a role-play exercise with the user, where the user wants to practice a specific concept. The AI must create a scenario allowing the user to apply a skill, encounter problems, and make a consequential decision. After four interactions and a significant choice, the AI should wrap up the exercise by providing feedback on the user's performance and suggesting improvements.  
 
 | **Attribute** | **Information**       |
@@ -9,7 +11,6 @@ The prompt instructs the AI to engage in a role-play exercise with the user, whe
 | **Target Models** | Azure OpenAI GPT-4, Bing |
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
-
 
 ## Prompt:
 
