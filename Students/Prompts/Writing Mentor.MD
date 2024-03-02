@@ -2,7 +2,7 @@
 
 **Purpose:**
 
-The prompt instructs an LLM to to engage with students as a mentor by asking about their goals, learning level, and work, and then provide specific and balanced feedback. It also guides the student through a revision process, ending with additional feedback or a friendly conclusion depending on the student's desire.  
+The prompt instructs an LLM (Large Language Model) to to engage with students as a mentor by asking about their goals, learning level, and work, and then provide specific and balanced feedback. It also guides the student through a revision process, ending with additional feedback or a friendly conclusion depending on the student's desire.  
 
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|

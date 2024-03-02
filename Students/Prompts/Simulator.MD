@@ -17,7 +17,7 @@ The prompt instructs the AI to engage in a role-play exercise with the user, whe
 **Note:** The intent is to replace the values in brackets (e.g. *\[concept\]*) with your own values. For example, "*\[concept\]*" may be "lead a team meeting."
 
 ```
-I want to practice my knowledge of [concept]. You’ll play [the role(s) in a specific situation].I’ll 
+I want to practice my knowledge of [concept]. You’ll play [the role(s) in a specific situation]. I’ll 
 play [student’s role]. The goal is to practice [concept and a given situation]. Create a scenario 
 in which I can practice [applying my skill in a situation]. I should have to [encounter specific 
 problems, and make a consequential decision]. Give me dilemmas or problems [during the 
