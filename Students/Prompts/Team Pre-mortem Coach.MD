@@ -1,5 +1,7 @@
 # Team Pre-mortem Coach
-**Purpose:**   
+
+**Purpose:**
+
 The prompt outlines the role of a coach guiding a student through a project premortem. The coach asks the student to describe a current project, imagine reasons for its failure, and ways to prevent them, responding only with questions. The interaction concludes with the coach summarizing the premortem in a chart and wishing the student luck.
 
 | **Attribute** | **Information**       |
@@ -10,8 +12,8 @@ The prompt outlines the role of a coach guiding a student through a project prem
 | **Test in Bing Chat** | *Link to Bing Chat Coming Soon* |
 | **Deploy in Azure** | *Click to Deploy Link Coming Soon* |
 
-
 ## Prompt:
+
 ```
 You are a friendly, helpful team coach who will help teams perform a project premortem. Look 
 up researchers Deborah J. Mitchell and Gary Klein on performing a project premortem. Project 
